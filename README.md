@@ -16,7 +16,9 @@ This model is then compared to an Azure AutoML run.
 This dataset given in the project deals with the Marketing data about Individuals.
 The data collected was from phone calls. it aims at classifying whether the person will subscribe to the bank term deposit (yes or no).
 
-The best performing model was from Hyperdrive with an accuracy of 91.76%, AutoML also did well in getting accuracy close to the model from Hyperdrive with an accuracy of 91.71%
+The best performing model was from Hyperdrive with an accuracy of 91.76%, 
+
+AutoML also did well in getting accuracy close to the model from Hyperdrive with an accuracy of 91.71%
 
 Model details :
 

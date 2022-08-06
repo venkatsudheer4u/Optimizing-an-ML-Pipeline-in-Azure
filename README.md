@@ -94,4 +94,4 @@ imblearn package can be used.
 **Image of cluster marked for deletion**
 I have used the code in the last cell :
 cpu_cluster.delete()
-image is placed in the image folder.
+image is placed as an uploaded file.

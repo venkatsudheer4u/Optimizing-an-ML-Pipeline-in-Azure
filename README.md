@@ -23,6 +23,8 @@ AutoML also did well in getting accuracy close to the model from Hyperdrive with
 Model details :
 
 Hyperdrive model : HD_4986f363-fe92-4c46-a60c-da7ddb555c03
+
+
 AutoML model : AutoML_5c1d61cd-f114-40c6-89e1-06d455502cad
 
 ## Scikit-learn Pipeline
